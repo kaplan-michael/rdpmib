@@ -1,0 +1,11 @@
+[package]
+name = "rdpmib-authcode"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tao = "0.35.0"
+thiserror = "2.0.18"
+url = "2.5.8"
+wry = "0.55.0"
+xdg = "3.0.0"
